@@ -1,6 +1,6 @@
 const STORE_NAME = "SmartBuy Hub";
-const SPREADSHEET_ID = ""; // Optional: paste your Google Sheet ID here. Leave blank to use the script's linked spreadsheet.
-const ORDERS_SHEET_NAME = "Orders";
+const SPREADSHEET_ID = "https://docs.google.com/spreadsheets/d/1Sy4nnCGk_1JijT0PvxdfX0u9WlTFVbTkGSUt9ZZSVmQ/edit?usp=sharing"; // Optional: paste your Google Sheet ID here. Leave blank to use the script's linked spreadsheet.
+const ORDERS_SHEET_NAME = "smart_buy_hub_orders";
 
 // Edit these sample products. Prices are verified on the server when an order is submitted.
 const PRODUCTS = [
